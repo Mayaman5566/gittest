@@ -2,3 +2,4 @@ one line
 branch newfile
 break test
 github push test
+github pull test
